@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/github/license/zalo/ThreeOcclusogram" title="License: Apache V2"></a>-->  <!-- No idea what license this should be! -->
 </p>
 
-A simple proof of concept for computing Dental Occlusograms.
+A simple proof of concept for computing and visualizing Dental Occlusograms on the GPU
 
 This demo uses `three-mesh-bvh` to treat the meshes like SDFs, but prebaking the meshes to 3D textures would probably be much faster.
 
