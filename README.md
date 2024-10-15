@@ -11,6 +11,8 @@
 
 A simple proof of concept for computing and visualizing Dental Occlusograms on the GPU
 
+![ThreeOcclusogramDemo](./assets/OcclusogramDemo.gif)
+
 This demo uses `three-mesh-bvh` to treat the meshes like SDFs, but prebaking the meshes to 3D textures would probably be much faster.
 
 Inspired by this Github Issue: https://github.com/zalo/ThreeHydroelasticContacts/issues/1
